@@ -1,0 +1,2 @@
+{"timestamp":1466697222,"status":200,"request":{"mbean":"java.lang:type=Memory","target":{"env":{"password":"QED","user":"monitorRole"},"url":"service:jmx:rmi:\/\/\/jndi\/rmi:\/\/localhost:9010\/jmxrmi"},"attribute":"HeapMemoryUsage","type":"read"},"value":{"max":952827904,"committed":60817408,"init":62914560,"used":8064784}}
+
